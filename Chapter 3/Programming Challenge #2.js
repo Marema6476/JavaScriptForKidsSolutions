@@ -1,6 +1,6 @@
-var randomBodyParts = ["Face", "Nose", "Hair"];
-var randomAnimalBodyParts = ["Tail", "Foot", "Fur"]
-var randomAdjectives = ["Smelly", "Boring", "Stupid"];
+var randomBodyParts = ["Feet", "armpits", "ears"];
+var randomAnimalBodyParts = ["snort", "tail", "skin"]
+var randomAdjectives = ["Stupid", "fat", "unattractive"];
 var randomAnimals = ["Fly", "Marmot", "Monkey", "Rat"];
 
 var randomBodyPart = randomBodyParts[Math.floor(Math.random() * 3)];
